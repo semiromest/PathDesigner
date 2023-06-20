@@ -12,9 +12,6 @@ PathDesigner, Unity ortamında bir yol tasarım aracıdır. Bu araç, belirtilen
   
 - Belirli bir yarıçapa sahip rastgele nesneleri yol üzerine yerleştirme.
 
-## Gereksinimler
-
-- Unity 3D (2020.3 veya daha yeni sürüm)
 
 ## Kurulum
 
