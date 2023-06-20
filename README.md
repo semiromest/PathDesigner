@@ -30,3 +30,9 @@ PathDesigner, Unity ortamında bir yol tasarım aracıdır. Bu araç, belirtilen
 3. İstediğiniz diğer ayarları yapılandırın.
    
 4. Oyunu veya sahneyi oynatın. Yol ve nesneler oluşturulacak ve görünecektir.
+
+![image](https://github.com/semiromest/PathDesigner/assets/81243425/686bb4b1-e22d-47ca-b15b-00aef3bab90d)
+
+![image](https://github.com/semiromest/PathDesigner/assets/81243425/306eae89-a7e6-4e90-b2da-e7d0911332c3)
+
+
